@@ -2,7 +2,7 @@ echo off
 setlocal
 C:
 call :GotoFolder C:\WA\GarnetSquadron
-call :UpdateSvnRepo https://github.com/GarnetSquardon4901/ FTC-Velocity-Vortex-2017.git
+call :UpdateSvnRepo https://github.com/GarnetSquadron4901/ FTC-Velocity-Vortex-2017.git
 
 pause
 endlocal
